@@ -3,7 +3,6 @@ class Zoo:
         self.__vs_number = vs_number
         self.__name = name
         self.__an_number = an_number
-        # не приватні
         self.__year = year
         self.__type_of_animal = type_of_animal
 
